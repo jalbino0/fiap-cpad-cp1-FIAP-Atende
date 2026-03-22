@@ -15,7 +15,7 @@ export function AtendimentoProvider({ children }) {
       .toUpperCase();
 
     const numero = Math.floor(Math.random() * 900 + 100);
-    const senha = ${prefixo}-${numero};
+    const senha = `${prefixo}-${numero}`;
 
     const novaSenha = {
       id: Date.now().toString(),
