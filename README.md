@@ -184,11 +184,12 @@ data/
 
 assets/
    screenshots/
-      login.png
-      home.png
-      detalhes.png
-      senha.png
-      historico.png
+      detalhes.jpeg
+      gerar-senha.jpeg
+      historico.jpeg
+      home.jpeg
+      login.jpeg
+      senha.jpeg
 ```
 
 Descrição da estrutura:
